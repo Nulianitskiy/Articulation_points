@@ -1,0 +1,10 @@
+C:\Users\User\Desktop\Материалы\2 курс\InTask_5\InTask_5\bin\Debug\InTask_5.exe.config
+C:\Users\User\Desktop\Материалы\2 курс\InTask_5\InTask_5\bin\Debug\InTask_5.exe
+C:\Users\User\Desktop\Материалы\2 курс\InTask_5\InTask_5\bin\Debug\InTask_5.pdb
+C:\Users\User\Desktop\Материалы\2 курс\InTask_5\InTask_5\obj\Debug\InTask_5.csprojAssemblyReference.cache
+C:\Users\User\Desktop\Материалы\2 курс\InTask_5\InTask_5\obj\Debug\InTask_5.InTask_Form.resources
+C:\Users\User\Desktop\Материалы\2 курс\InTask_5\InTask_5\obj\Debug\InTask_5.Properties.Resources.resources
+C:\Users\User\Desktop\Материалы\2 курс\InTask_5\InTask_5\obj\Debug\InTask_5.csproj.GenerateResource.cache
+C:\Users\User\Desktop\Материалы\2 курс\InTask_5\InTask_5\obj\Debug\InTask_5.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Материалы\2 курс\InTask_5\InTask_5\obj\Debug\InTask_5.exe
+C:\Users\User\Desktop\Материалы\2 курс\InTask_5\InTask_5\obj\Debug\InTask_5.pdb
